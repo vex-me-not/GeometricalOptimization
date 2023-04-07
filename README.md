@@ -1,6 +1,7 @@
 # Prerequisites
 * CGAL 5.1
 * CMake
+* Linux Based OS (or WSL2)
 # Polygon Optimization
 
 Περιεχόμενα <br>
